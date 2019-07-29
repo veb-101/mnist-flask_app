@@ -43,6 +43,13 @@
     ```
 ##### Outputs
 - Input
+    ![1 input](./outputs/1.png)
+<br>
+
+- Output
+    ![1 Out](./outputs/1out.png)
+
+- Input
     ![3 input](./outputs/3.png)
 <br>
 
