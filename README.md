@@ -1,30 +1,35 @@
 # Classifying Hand-drawn Digits using Flask
 ---------
 
+* <b>Original Paper</b>
+  * [Gradient Based learning applied to document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
+<br>
+
 * <b>Learning Resources</b>
   
     1. [CS231N Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/)
     2. [CS231N Visualizing what ConvNets learn](http://cs231n.github.io/understanding-cnn/)
     3. [A  Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
     4. [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)  
+    5. [Visualizing MNIST: An Exploration of Dimensionality Reduction - Chris Olag](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 <br>
 
-* Code Resources
+* <b>Code Resources</b>
   * [Convolutional Neural Network by Magnus Erik Hvass Pedersen](https://nbviewer.jupyter.org/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb)
   * [keras repositoy](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
   * Deep Learning with Python - Francois Chollet
   <br>
 
-* Model Training Files (2 different models trained)
+* <b>Model Training Files (2 different models trained)</b>
   * (Basic) Initial -> [mnist-keras(colab)](https://colab.research.google.com/drive/1kJBrQ-jHNb9LLnbFKJAjp-MqZuGzbgor#forceEdit=true&offline=true&sandboxMode=true)
   * (Augmented) Used for predictions -> [Mnist-data-augmented(colab)](https://colab.research.google.com/drive/1UJjljA9TBmA_YNhfxe4wn_CwfVFYgaUK#forceEdit=true&offline=true&sandboxMode=true) 
   <br>
 
-* Run Online
+* <b>Run Online</b>
     * [repl.it](https://repl.it/@VaibhavSingh4/Classifying-hand-written-images)
 <br>
 
-* Inspired by
+* <b>Inspired by</b>
   * [Sourav Johar's Doodle Classifier](https://github.com/SouravJohar/doodle-classifier)   
 
 
@@ -57,7 +62,7 @@
     ![3 Out](./outputs/3out.png)
 
 
-* TODO
+* <b>ToDo</b>
     1. Remove scipy.misc.imresize deprecated warning.
         (remove this line to view the warning)
         ```python
