@@ -36,7 +36,6 @@
 #### Run Locally
 
 1. Create a seperate python 3 environment.
-<br>
 
 2. Install the required packages
    ```python
