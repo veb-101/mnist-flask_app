@@ -37,8 +37,9 @@
 
 1. Create a seperate python 3 environment.
 <br>
+
 2. Install the required packages
-    ```python
+   ```python
     pip install -r requirements.txt
     ```
 
